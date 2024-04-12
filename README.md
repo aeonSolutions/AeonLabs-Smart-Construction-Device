@@ -11,7 +11,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/aeonSolutions.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/aeonSolutions?tab=followers) 
 </p>
 
-
+[Main Catalogue](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue) >> 
+[Construction Industry](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry)  >>  [Construction Site](https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/tree/main/Construction%20Industry/Construction%20Site)   >>  Smart Construction Device
 
 <p align="right">
  <a href="https://github-com.translate.goog/aeonSolutions/PCB-Prototyping-Catalogue/tree/main?_x_tr_sl=en&_x_tr_tl=pt&_x_tr_hl=en&_x_tr_pto=wapp">Change Language</a> <br>
@@ -19,12 +20,48 @@ Last update: 12-04-2024
 </p>
 
 # Smart Construction Device
-The Smart Construction Device can connect to all kinds of sensors. This device is capable of monitoring for more than one year without the need to recharge batteries
+buy on [Tindie.com](https://www.tindie.com/stores/aeonlabs/).
+
+The Smart Construction Device can connect to all kinds of sensors. This device is capable of monitoring for more than one year without the need to recharge batteries.
+
+<p align="center">
+   <img height="100px" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/CE_READY.png">
+<br>
+ 
+this hardware electronics is "CE Ready" meaning it is ready to get a CE marking. To learn more about this marking go to [Wikipedia here](https://en.wikipedia.org/wiki/CE_marking). 
+</p>
+
+If you prefer, can read this project on ....
+- Hackster.io website [here](https://www.hackster.io/mtpsilva).
+- Medium.com webiste [here](https://medium.com/@mtpsilva)
+  
+<p align="center">
+ <a href="https://aeonsolutions.github.io/products/concretematurity/">
+ <img alt="View this repository in a conventional landing page" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/diy_icon.png"></a>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <a href="https://aeonsolutions.github.io/products/">
+  <img alt="View all open hardware solutions ready to buy, install and use" height="100" src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/pcb_icon.png">
+ </a> <br>
+ <sup>View this repository in a conventional landing page</sup>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <sup> View all open hardware solutions ready to buy, install, and use</sup>
+</p>
+
+<br>
+
 
 <p align="center">
    <img width="45%" src="https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device/blob/main/media/smart_construction_device_pcb_front.jpg">
    <img width="45%" src="https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device/blob/main/media/smart_construction_device_pcb_back.jpg">
 </p>
+
+<p align="center">
+<strong> <a href="https://aeonsolutions.github.io/sponsor/smart_construction/">Interactive view of the PCB Layout</a> </strong> &nbsp;
+  <strong> <a href="https://aeonsolutions.github.io/sponsor/smart_construction/circuit_schematic.html">Interactive view of the circuit schematic</a> </strong> <br>
+ <sup>Click to view the latest revision</sup>
+</p>
+
+
 
 # Hardware Functionalities
 - 2x Channel Ports
