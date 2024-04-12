@@ -49,6 +49,8 @@ If you prefer, can read this project on ....
 
 <br>
 
+## PCB  Files
+The PCB Files can be found on the web interactive viewer. Links below. 
 
 <p align="center">
    <img width="45%" src="https://github.com/aeonSolutions/AeonLabs-Smart-Construction-Device/blob/main/media/smart_construction_device_pcb_front.jpg">
