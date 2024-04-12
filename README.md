@@ -98,8 +98,39 @@ The Smart Construction Device can connect to all kinds of sensors. For instance:
 - Built-in motion sensor, to alert if anyone moves or touches the device
 
 
+### ![](https://github.com/aeonSolutions/AeonLabs-WIFI-BLE-RFID-NFC-Desk-Contacless-Reader-Writer/blob/main/designs/working_green.png) Status
+  Fully working.
+  
+  <p align="center">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/testing_phase_alpha.jpg" height="300">
+
+</p>
+
+### Compatibility
+
+<p align="center">
+ <a href"https://www.apple.com/shop/accessories/all/homekit">
+<img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_apple_home.png" height="50">
+ </a>
+<a href="https://home.google.com"> 
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_google_home.png" height="50">
+ </a>
+<a href="https://www.home-assistant.io">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_home_assistanr.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_matter.png" height="50">
+ </a>
+<a href="https://csa-iot.org/all-solutions/matter/">  
+ <img src="https://github.com/aeonSolutions/PCB-Prototyping-Catalogue/blob/main/media/works_with_zigbee.jpg" height="50">
+ </a>
+</p>
+
+
+<br>
 <br />
-<br />
+
+
 
 ## Author
 
