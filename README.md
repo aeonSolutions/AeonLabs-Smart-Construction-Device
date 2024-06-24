@@ -20,7 +20,7 @@ Last update: 12-04-2024
 </p>
 
 # Smart Construction Device
-buy on [Tindie.com](https://www.tindie.com/stores/aeonlabs/).
+<sup> **status: <a href="https://en.wikipedia.org/wiki/Minimum_viable_product">M.V.P.</a>** NOW SELLING on <a href="https://www.tindie.com/stores/aeonlabs/">Tindie.com</a>  </sup> <br>
 
 The Smart Construction Device can connect to all kinds of sensors. This device is capable of monitoring for more than one year without the need to recharge batteries.
 
